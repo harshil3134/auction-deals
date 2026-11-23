@@ -138,7 +138,9 @@ def main():
             s = run_search(url)
             for l in s["lots"]:
                 l["first_seen"] = seen_before.get(l["id"]) or stamp
-            s["added"] = (old_by_url.get(url) or {}).get("added") or stamp  # lots seen on the first run aren't "new"
+            prev = old_by_url.get(url) or {}
+            s["added"] = (prev.get("added")  # lots seen on a search's first run aren't "new"
+                          or min((l.get("first_seen") for l in prev.get("lots", []) if l.get("first_seen")), default=stamp))
             s["error"] = ""
             print(f"{s['query']!r} @ {s['host']}: {len(s['lots'])} open lots")
         except Exception as e:  # keep the last good results, show the error on the dashboard
