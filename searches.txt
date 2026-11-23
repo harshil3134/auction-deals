@@ -2,3 +2,4 @@
 # Example: https://encoreauctions.hibid.com/lots?q=desk
 # Delete a line to stop tracking that search.
 https://encoreauctions.hibid.com/lots?q=desk
+https://encoreauctions.hibid.com/lots?q=mouse
