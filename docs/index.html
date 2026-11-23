@@ -111,7 +111,7 @@
     To track something new, search for it on the auction site, copy the address (like
     <code>https://encoreauctions.hibid.com/lots?q=desk</code>), click <b>Add / remove searches</b>, paste it on a
     new line and click <b>Commit changes</b>. Results appear after the next check (about 15 minutes).
-    Only lots with every search word in the title are kept. This page refreshes itself every 2 minutes.
+    Only lots with every search word in the title are kept. This page refreshes itself every 3 minutes.
   </p>
 </div>
 
@@ -124,7 +124,7 @@
   // ------------------
 
   const local = ["localhost", "127.0.0.1", ""].includes(location.hostname);
-  const DATA_URL = local ? "../data.json" : `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data.json`;
+  const DATA_SRC = local ? "../data.json" : `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/data.json`;
   const RUNS_API = `https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/track.yml/runs?per_page=1`;
   document.getElementById("edit").href = `https://github.com/${OWNER}/${REPO}/edit/${BRANCH}/searches.txt`;
   document.getElementById("runs").href = `https://github.com/${OWNER}/${REPO}/actions/workflows/track.yml`;
@@ -196,10 +196,20 @@
           <div class="grid">${g.lots.map(card).join("")}</div></section>`).join("");
   }
 
+  // The branch URL on raw.githubusercontent is cached ~5 min; the URL of the latest commit isn't.
+  async function freshUrl() {
+    if (local) return DATA_SRC;
+    try {
+      const c = await (await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits?path=data.json&per_page=1`)).json();
+      if (c[0]?.sha) return `https://raw.githubusercontent.com/${OWNER}/${REPO}/${c[0].sha}/data.json`;
+    } catch {}
+    return DATA_SRC + "?t=" + Date.now();
+  }
+
   async function load() {
     const st = $("status");
     try {
-      const r = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
+      const r = await fetch(await freshUrl());
       data = r.ok ? await r.json() : { searches: [] };
       if (tab !== "all" && !data.searches.some(s => s.url === tab)) tab = "all";
       render();
@@ -226,7 +236,7 @@
   });
   for (const id of ["q", "sort", "nobids"]) $(id).addEventListener("input", render);
   load();
-  setInterval(load, 120000);
+  setInterval(load, 180000);
 </script>
 </body>
 </html>
