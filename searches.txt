@@ -1,0 +1,4 @@
+# One HiBid search URL per line. Search on the auction site, then copy the address bar.
+# Example: https://encoreauctions.hibid.com/lots?q=desk
+# Delete a line to stop tracking that search.
+https://encoreauctions.hibid.com/lots?q=desk

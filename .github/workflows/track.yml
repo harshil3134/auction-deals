@@ -1,0 +1,37 @@
+name: Track searches
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 min (GitHub may start it a few minutes late)
+  workflow_dispatch:
+  push:
+    paths: ["searches.txt"]  # new search -> results right away
+
+permissions:
+  contents: write
+
+concurrency:
+  group: track
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch lots
+        run: python track.py
+      - name: Save data
+        run: |
+          if [ -n "$(git status --porcelain data.json)" ]; then
+            git config user.name "auction-deals"
+            git config user.email "auction-deals@users.noreply.github.com"
+            git add data.json
+            git commit -m "Update lots"
+            git pull --rebase
+            git push
+          fi
