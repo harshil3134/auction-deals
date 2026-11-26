@@ -30,9 +30,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -90,9 +90,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 30.0,
-     "price": 32.5,
-     "bids": 18,
+     "high": 32.5,
+     "price": 35.0,
+     "bids": 19,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -300,9 +300,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 2.0,
-     "price": 3.0,
-     "bids": 2,
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 3,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -345,9 +345,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 2.0,
-     "price": 3.0,
-     "bids": 2,
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 3,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -360,9 +360,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -375,9 +375,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -390,9 +390,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 3.0,
-     "price": 4.0,
-     "bids": 3,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 4,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -495,9 +495,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 13.0,
-     "price": 14.0,
-     "bids": 13,
+     "high": 70.0,
+     "price": 72.5,
+     "bids": 46,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -555,9 +555,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 6.0,
-     "price": 7.0,
-     "bids": 6,
+     "high": 16.0,
+     "price": 17.0,
+     "bids": 8,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -570,9 +570,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 3.0,
-     "price": 4.0,
-     "bids": 3,
+     "high": 11.0,
+     "price": 12.0,
+     "bids": 8,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -585,9 +585,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 18.0,
-     "price": 19.0,
-     "bids": 19,
+     "high": 20.0,
+     "price": 21.0,
+     "bids": 21,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -765,9 +765,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -780,9 +780,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -795,9 +795,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -900,9 +900,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-25T05:31:47+00:00"
     },
     {
@@ -915,9 +915,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-25T05:31:47+00:00"
     },
     {
@@ -979,6 +979,21 @@
      "price": 1.0,
      "bids": 0,
      "first_seen": "2026-11-25T05:31:47+00:00"
+    },
+    {
+     "id": "332974752",
+     "title": "5-TIER WHITE DESK PAPER ORGANIZER AND FILE HOL",
+     "lot_number": "14827",
+     "url": "https://encoreauctions.hibid.com/lot/332974752/5-tier-white-desk-paper-organizer-and-file-hol",
+     "image": "https://cdn.hibid.com/img.axd?id=8471250131&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=0qSGE0t0BdEXkxRAkukFHBCCVwBs9pom&h=350&w=350",
+     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
+     "auctioneer": "Encore Auctions Inc",
+     "closes": "2026-11-29T12:00:00",
+     "currency": "CAD",
+     "high": 0,
+     "price": 1.0,
+     "bids": 0,
+     "first_seen": "2026-11-26T00:16:48+00:00"
     }
    ],
    "added": "2026-11-23T05:51:35+00:00",
@@ -1029,9 +1044,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1074,9 +1089,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 2.0,
-     "price": 3.0,
-     "bids": 2,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 4,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1479,9 +1494,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1509,9 +1524,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 3.0,
-     "price": 4.0,
-     "bids": 2,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 3,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1584,9 +1599,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 5.0,
-     "price": 6.0,
-     "bids": 5,
+     "high": 7.0,
+     "price": 8.0,
+     "bids": 7,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1869,9 +1884,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -1884,9 +1899,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -2004,9 +2019,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 2.0,
-     "price": 3.0,
-     "bids": 2,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 3,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -2424,9 +2439,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-25T05:31:47+00:00"
     }
    ],
@@ -2628,9 +2643,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 4.0,
-     "price": 5.0,
-     "bids": 4,
+     "high": 5.0,
+     "price": 6.0,
+     "bids": 5,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -2658,9 +2673,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 6.0,
-     "price": 7.0,
-     "bids": 6,
+     "high": 8.0,
+     "price": 9.0,
+     "bids": 7,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -2733,9 +2748,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -2763,9 +2778,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 7.0,
-     "price": 8.0,
-     "bids": 7,
+     "high": 24.0,
+     "price": 25.0,
+     "bids": 15,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -2808,9 +2823,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -2853,9 +2868,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -2898,9 +2913,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -3088,5 +3103,5 @@
    "error": ""
   }
  ],
- "updated": "2026-11-25T16:02:30+00:00"
+ "updated": "2026-11-26T00:16:48+00:00"
 }
