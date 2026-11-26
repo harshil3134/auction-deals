@@ -90,9 +90,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 32.5,
-     "price": 35.0,
-     "bids": 19,
+     "high": 35.0,
+     "price": 37.5,
+     "bids": 20,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -270,9 +270,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 7.0,
-     "price": 8.0,
-     "bids": 7,
+     "high": 8.0,
+     "price": 9.0,
+     "bids": 8,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -585,9 +585,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 21.0,
-     "price": 22.0,
-     "bids": 22,
+     "high": 22.0,
+     "price": 23.0,
+     "bids": 23,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -735,9 +735,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -840,9 +840,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -960,9 +960,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-25T05:31:47+00:00"
     },
     {
@@ -1011,6 +1011,21 @@
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
+     "id": "333189100",
+     "title": "CLIP-ON CONVEX DESK SECURITY MIRROR (6.69X2.95",
+     "lot_number": "15358",
+     "url": "https://encoreauctions.hibid.com/lot/333189100/clip-on-convex-desk-security-mirror-6-69x2-95",
+     "image": "https://cdn.hibid.com/img.axd?id=8471994006&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=imN4N704prhB4Ef7JOpBur59P6%2bxHCdx&h=350&w=350",
+     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
+     "auctioneer": "Encore Auctions Inc",
+     "closes": "2026-11-29T12:00:00",
+     "currency": "CAD",
+     "high": 0,
+     "price": 1.0,
+     "bids": 0,
+     "first_seen": "2026-11-26T18:38:23+00:00"
+    },
+    {
      "id": "333189864",
      "title": "EXCEL WHEELCHAIR 24\",DESK ARM, FTRST",
      "lot_number": "16063",
@@ -1020,10 +1035,55 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
+     "first_seen": "2026-11-26T08:40:28+00:00"
+    },
+    {
+     "id": "333190302",
+     "title": "YANOSAKU 47\" FLUTED VANITY DESK WITH LED MIRRO",
+     "lot_number": "16511",
+     "url": "https://encoreauctions.hibid.com/lot/333190302/yanosaku-47-fluted-vanity-desk-with-led-mirro",
+     "image": "https://cdn.hibid.com/img.axd?id=8472027441&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=l%2beFaCOyk5PWMdsy4zECzqfUDcR7EtLG&h=350&w=350",
+     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
+     "auctioneer": "Encore Auctions Inc",
+     "closes": "2026-11-29T12:00:00",
+     "currency": "CAD",
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 3,
+     "first_seen": "2026-11-26T18:38:23+00:00"
+    },
+    {
+     "id": "333190624",
+     "title": "TRIBESIGNS 160X80X75 CM WOOD COMPUTER DESK",
+     "lot_number": "16841",
+     "url": "https://encoreauctions.hibid.com/lot/333190624/tribesigns-160x80x75-cm-wood-computer-desk",
+     "image": "https://cdn.hibid.com/img.axd?id=8472038041&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=o2pXpkAtoMcM0TcoR%2bFYIrpHwWmze6iF&h=350&w=350",
+     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
+     "auctioneer": "Encore Auctions Inc",
+     "closes": "2026-11-29T12:00:00",
+     "currency": "CAD",
      "high": 0,
      "price": 1.0,
      "bids": 0,
-     "first_seen": "2026-11-26T08:40:28+00:00"
+     "first_seen": "2026-11-26T18:38:23+00:00"
+    },
+    {
+     "id": "333190659",
+     "title": "AGILESTIC 63X24 ELECTRIC STANDING DESK",
+     "lot_number": "16876",
+     "url": "https://encoreauctions.hibid.com/lot/333190659/agilestic-63x24-electric-standing-desk",
+     "image": "https://cdn.hibid.com/img.axd?id=8472039262&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=9VNV4TlXvf3rTWbCRW1SNfekbIX0At9u&h=350&w=350",
+     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
+     "auctioneer": "Encore Auctions Inc",
+     "closes": "2026-11-29T12:00:00",
+     "currency": "CAD",
+     "high": 0,
+     "price": 1.0,
+     "bids": 0,
+     "first_seen": "2026-11-26T18:38:23+00:00"
     },
     {
      "id": "333191381",
@@ -1039,6 +1099,21 @@
      "price": 1.0,
      "bids": 0,
      "first_seen": "2026-11-26T08:40:28+00:00"
+    },
+    {
+     "id": "333191925",
+     "title": "BEXEVUE ELECTRIC L-SHAPED STANDING DESK MAPLE",
+     "lot_number": "18153",
+     "url": "https://encoreauctions.hibid.com/lot/333191925/bexevue-electric-l-shaped-standing-desk-maple",
+     "image": "https://cdn.hibid.com/img.axd?id=8472066555&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=K7Pt91gcYEH%2bGcg3SLRfWtvTMN3Yrdn7&h=350&w=350",
+     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
+     "auctioneer": "Encore Auctions Inc",
+     "closes": "2026-11-29T12:00:00",
+     "currency": "CAD",
+     "high": 0,
+     "price": 1.0,
+     "bids": 0,
+     "first_seen": "2026-11-26T18:38:23+00:00"
     },
     {
      "id": "333191993",
@@ -1164,9 +1239,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1179,9 +1254,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 4.0,
-     "price": 5.0,
-     "bids": 4,
+     "high": 5.0,
+     "price": 6.0,
+     "bids": 5,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1194,9 +1269,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 3,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1224,9 +1299,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1329,9 +1404,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 3,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1389,9 +1464,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1434,9 +1509,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 2,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1494,9 +1569,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 2.0,
-     "price": 3.0,
-     "bids": 2,
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 3,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1659,9 +1734,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 4.0,
-     "price": 5.0,
-     "bids": 4,
+     "high": 5.0,
+     "price": 6.0,
+     "bids": 5,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1794,9 +1869,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 12.0,
-     "price": 13.0,
-     "bids": 9,
+     "high": 14.0,
+     "price": 15.0,
+     "bids": 10,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1854,9 +1929,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 18.0,
-     "price": 19.0,
-     "bids": 6,
+     "high": 21.0,
+     "price": 22.0,
+     "bids": 7,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1869,9 +1944,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1914,9 +1989,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -1989,9 +2064,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 2.0,
-     "price": 3.0,
-     "bids": 2,
+     "high": 6.0,
+     "price": 7.0,
+     "bids": 3,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -2079,9 +2154,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -2109,9 +2184,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 7.0,
-     "price": 8.0,
-     "bids": 6,
+     "high": 8.0,
+     "price": 9.0,
+     "bids": 7,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -2589,9 +2664,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -2649,9 +2724,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -2724,9 +2799,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -2829,9 +2904,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -2973,9 +3048,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 3,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -3108,9 +3183,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 15.0,
-     "price": 16.0,
-     "bids": 13,
+     "high": 16.0,
+     "price": 17.0,
+     "bids": 14,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -3153,24 +3228,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 8.0,
-     "price": 9.0,
-     "bids": 7,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
-     "id": "332535769",
-     "title": "APPLE MAGIC KEYBOARD WITH TOUCH ID - MAC SILIC",
-     "lot_number": "5716",
-     "url": "https://encoreauctions.hibid.com/lot/332535769/apple-magic-keyboard-with-touch-id-mac-silic",
-     "image": "https://cdn.hibid.com/img.axd?id=8469958509&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YhXMialCSzthgGwDEFebOJs1kQq3LuYr&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 16.0,
+     "price": 17.0,
+     "bids": 12,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -3187,21 +3247,6 @@
      "price": 1.0,
      "bids": 0,
      "first_seen": "2026-11-24T03:03:40+00:00"
-    },
-    {
-     "id": "332784327",
-     "title": "LOGITECH WIRELESS TOUCH KEYBOARD K400 PLUS, FR",
-     "lot_number": "6241",
-     "url": "https://encoreauctions.hibid.com/lot/332784327/logitech-wireless-touch-keyboard-k400-plus-fr",
-     "image": "https://cdn.hibid.com/img.axd?id=8470415277&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=OteH0%2fXa9Sd5r%2fCyjlpLAqcsOpUeXL8q&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 3.0,
-     "price": 4.0,
-     "bids": 3,
-     "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
      "id": "332785512",
@@ -3264,21 +3309,6 @@
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
-     "id": "332786747",
-     "title": "AMAZONBASICS WIRED KEYBOARD USB PLUG N PLAY BL",
-     "lot_number": "7607",
-     "url": "https://encoreauctions.hibid.com/lot/332786747/amazonbasics-wired-keyboard-usb-plug-n-play-bl",
-     "image": "https://cdn.hibid.com/img.axd?id=8470466222&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=bEYE8EnGkWsyfoMnI7Qe%2btbSNvIc8LKT&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
      "id": "332786823",
      "title": "ONSTAGE KSA8585 KEYBOARD ACCESSORY TRAY, BLACK",
      "lot_number": "7685",
@@ -3322,21 +3352,6 @@
      "price": 2.0,
      "bids": 1,
      "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
-     "id": "332787355",
-     "title": "LOGITECH MK235 WIRELESS KEYBOARD & MOUSE",
-     "lot_number": "8173",
-     "url": "https://encoreauctions.hibid.com/lot/332787355/logitech-mk235-wireless-keyboard-mouse",
-     "image": "https://cdn.hibid.com/img.axd?id=8470476759&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=ROK667F9diieHNUiEHJyAHKdJzxUe%2bo5&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
      "id": "332787851",
@@ -3393,24 +3408,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 2.0,
-     "price": 3.0,
-     "bids": 2,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
-     "id": "332968947",
-     "title": "LOGITECH K400 PLUS WIRELESS TV KEYBOARD - BLAC",
-     "lot_number": "10522",
-     "url": "https://encoreauctions.hibid.com/lot/332968947/logitech-k400-plus-wireless-tv-keyboard-blac",
-     "image": "https://cdn.hibid.com/img.axd?id=8471094913&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=r%2bjBwXr%2f7B7oy3uXaypd7bb1ftTnNK9v&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 3,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -3419,21 +3419,6 @@
      "lot_number": "10948",
      "url": "https://encoreauctions.hibid.com/lot/332970119/logitech-mk850-wireless-keyboard-mouse-frenc",
      "image": "https://cdn.hibid.com/img.axd?id=8471125658&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=wmMO2Jg%2f00otz8g7iYXdKUUgWfNix16j&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
-     "first_seen": "2026-11-25T05:31:47+00:00"
-    },
-    {
-     "id": "332970537",
-     "title": "DELL KM3322W WIRELESS KEYBOARD & MOUSE",
-     "lot_number": "11172",
-     "url": "https://encoreauctions.hibid.com/lot/332970537/dell-km3322w-wireless-keyboard-mouse",
-     "image": "https://cdn.hibid.com/img.axd?id=8471131944&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=cX7bgWRGdT0tI6vuYC4m5oaYLdAE5rVq&h=350&w=350",
      "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
@@ -3489,21 +3474,6 @@
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
-     "id": "332972761",
-     "title": "LOGITECH MK335 FULL-SIZE WIRELESS KEYBOARD + M",
-     "lot_number": "12987",
-     "url": "https://encoreauctions.hibid.com/lot/332972761/logitech-mk335-full-size-wireless-keyboard-m",
-     "image": "https://cdn.hibid.com/img.axd?id=8471197197&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=1LH5RaxWRc49bNXdKXzOcC2PqxaaHQaQ&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
      "id": "332972966",
      "title": "LOGITECH MK270 WIRELESS KEYBOARD & MOUSE COMBO",
      "lot_number": "13197",
@@ -3524,36 +3494,6 @@
      "lot_number": "13574",
      "url": "https://encoreauctions.hibid.com/lot/332973331/logitech-mk270-wireless-keyboard-mouse-combo",
      "image": "https://cdn.hibid.com/img.axd?id=8471215396&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=00ssUP3HZjl%2fja8DpGRQNwZQiIaViMt2&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-25T05:31:47+00:00"
-    },
-    {
-     "id": "332973700",
-     "title": "LOGITECH KEYS-TO-GO BLUETOOTH KEYBOARD FOR WIN",
-     "lot_number": "13956",
-     "url": "https://encoreauctions.hibid.com/lot/332973700/logitech-keys-to-go-bluetooth-keyboard-for-win",
-     "image": "https://cdn.hibid.com/img.axd?id=8471224061&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=iYSbek4uNOkJzHDweEGlpp4%2boaVH01PC&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
-     "id": "332973871",
-     "title": "LOGITECH MK235 WIRELESS KEYBOARD AND MOUSE COM",
-     "lot_number": "14128",
-     "url": "https://encoreauctions.hibid.com/lot/332973871/logitech-mk235-wireless-keyboard-and-mouse-com",
-     "image": "https://cdn.hibid.com/img.axd?id=8471229916&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=DThM62REtSnBQnVGtDZKTL%2baGGRJC9t2&h=350&w=350",
      "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
@@ -3588,39 +3528,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-26T08:40:28+00:00"
-    },
-    {
-     "id": "333190322",
-     "title": "LOGITECH MK345 FULL-SIZE WIRELESS KEYBOARD & M",
-     "lot_number": "16531",
-     "url": "https://encoreauctions.hibid.com/lot/333190322/logitech-mk345-full-size-wireless-keyboard-m",
-     "image": "https://cdn.hibid.com/img.axd?id=8472028190&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=WDwbF0ElrQ8dCtQEPN9kfWmeK7KeA7G%2b&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-26T08:40:28+00:00"
-    },
-    {
-     "id": "333190521",
-     "title": "LOGITECH MK345 FULL-SIZE WIRELESS KEYBOARD & M",
-     "lot_number": "16735",
-     "url": "https://encoreauctions.hibid.com/lot/333190521/logitech-mk345-full-size-wireless-keyboard-m",
-     "image": "https://cdn.hibid.com/img.axd?id=8472034213&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=A9M5Z6BltMPWeSXj%2fjB4w2ENTpMzwxbj&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -3654,41 +3564,11 @@
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
-     "id": "333191212",
-     "title": "LOGITECH MK120 KEYBOARD AND MOUSE COMBO - BLAC",
-     "lot_number": "17438",
-     "url": "https://encoreauctions.hibid.com/lot/333191212/logitech-mk120-keyboard-and-mouse-combo-blac",
-     "image": "https://cdn.hibid.com/img.axd?id=8472054264&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=gQ%2fmth4hkvuuehB5KpLAwhdkimQEyeK2&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-26T08:40:28+00:00"
-    },
-    {
      "id": "333192008",
      "title": "LOGITECH K250 WIRELESS KEYBOARD WITH NUMBER PA",
      "lot_number": "18236",
      "url": "https://encoreauctions.hibid.com/lot/333192008/logitech-k250-wireless-keyboard-with-number-pa",
      "image": "https://cdn.hibid.com/img.axd?id=8472067581&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tK3YYcMYyrahPyXY%2f4dbc1fiFuy3xCCe&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-26T08:40:28+00:00"
-    },
-    {
-     "id": "333192373",
-     "title": "LEADSAIL WIRELESS KEYBOARD & MOUSE 2.4GHZ WHIT",
-     "lot_number": "18602",
-     "url": "https://encoreauctions.hibid.com/lot/333192373/leadsail-wireless-keyboard-mouse-2-4ghz-whit",
-     "image": "https://cdn.hibid.com/img.axd?id=8472074490&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=dDjM8p3leBIm9viXCJ96FxXLRlBMt6ba&h=350&w=350",
      "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
@@ -3708,24 +3588,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-26T08:40:28+00:00"
-    },
-    {
-     "id": "333195139",
-     "title": "LOGITECH MK270 WIRELESS KEYBOARD & MOUSE COMBO",
-     "lot_number": "19922",
-     "url": "https://encoreauctions.hibid.com/lot/333195139/logitech-mk270-wireless-keyboard-mouse-combo",
-     "image": "https://cdn.hibid.com/img.axd?id=8472100907&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=VbMgEsgA4DGnrNJGhoofI8WnSMv9%2fGHJ&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     }
    ],
@@ -3733,5 +3598,5 @@
    "error": ""
   }
  ],
- "updated": "2026-11-26T08:40:28+00:00"
+ "updated": "2026-11-26T18:38:23+00:00"
 }
