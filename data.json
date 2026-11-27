@@ -30,9 +30,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 4.0,
-     "price": 5.0,
-     "bids": 4,
+     "high": 5.0,
+     "price": 6.0,
+     "bids": 5,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -90,9 +90,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 40.0,
-     "price": 42.5,
-     "bids": 22,
+     "high": 65.0,
+     "price": 67.5,
+     "bids": 27,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -210,9 +210,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -255,9 +255,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 7.0,
-     "price": 8.0,
-     "bids": 4,
+     "high": 10.0,
+     "price": 11.0,
+     "bids": 6,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -540,9 +540,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 12.0,
-     "price": 13.0,
-     "bids": 11,
+     "high": 18.0,
+     "price": 19.0,
+     "bids": 16,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -570,9 +570,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 11.0,
-     "price": 12.0,
-     "bids": 8,
+     "high": 12.0,
+     "price": 13.0,
+     "bids": 11,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -585,9 +585,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 24.0,
-     "price": 25.0,
-     "bids": 24,
+     "high": 25.0,
+     "price": 26.0,
+     "bids": 25,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -600,9 +600,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-23T05:51:35+00:00"
     },
     {
@@ -660,9 +660,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -720,9 +720,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -780,9 +780,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 3,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -1050,9 +1050,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 32.5,
-     "price": 35.0,
-     "bids": 19,
+     "high": 35.0,
+     "price": 37.5,
+     "bids": 20,
      "first_seen": "2026-11-26T18:38:23+00:00"
     },
     {
@@ -1110,9 +1110,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-26T18:38:23+00:00"
     },
     {
@@ -1155,9 +1155,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 4,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -1290,9 +1290,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
@@ -1320,9 +1320,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
@@ -1410,9 +1410,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 3.0,
+     "price": 4.0,
+     "bids": 3,
      "first_seen": "2026-11-27T10:14:27+00:00"
     }
    ],
@@ -1479,24 +1479,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 3.0,
-     "price": 4.0,
-     "bids": 2,
-     "first_seen": "2026-11-23T06:13:31+00:00"
-    },
-    {
-     "id": "332401355",
-     "title": "LOGITECH M240 SILENT BLUETOOTH MOUSE - OFF WHI",
-     "lot_number": "1291",
-     "url": "https://encoreauctions.hibid.com/lot/332401355/logitech-m240-silent-bluetooth-mouse-off-whi",
-     "image": "https://cdn.hibid.com/img.axd?id=8469058872&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=kFYk1r7dWANMSg2XGGXa1OdPh4MLYc6Y&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 2.0,
-     "price": 3.0,
-     "bids": 2,
+     "high": 9.0,
+     "price": 10.0,
+     "bids": 5,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1575,21 +1560,6 @@
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
-     "id": "332401941",
-     "title": "LOGITECH G305 LIGHTSPEED MOUSE, HERO 12K SENSO",
-     "lot_number": "1706",
-     "url": "https://encoreauctions.hibid.com/lot/332401941/logitech-g305-lightspeed-mouse-hero-12k-senso",
-     "image": "https://cdn.hibid.com/img.axd?id=8469068023&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=N1TCJt1x%2f1h6vsB6L2ZQ2z53H9reNFuJ&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 5.0,
-     "price": 6.0,
-     "bids": 3,
-     "first_seen": "2026-11-23T06:13:31+00:00"
-    },
-    {
      "id": "332402581",
      "title": "LOGITECH M720 TRIATHALON WIRELESS MOUSE - BLAC",
      "lot_number": "1834",
@@ -1659,9 +1629,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 3.0,
-     "price": 4.0,
-     "bids": 3,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 4,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1749,9 +1719,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 82.5,
-     "price": 85.0,
-     "bids": 5,
+     "high": 100.0,
+     "price": 110.0,
+     "bids": 9,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1905,21 +1875,6 @@
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
-     "id": "332534008",
-     "title": "APPLE MAGIC MOUSE - WHITE MULTI-TOUCH SURFACE",
-     "lot_number": "3958",
-     "url": "https://encoreauctions.hibid.com/lot/332534008/apple-magic-mouse-white-multi-touch-surface",
-     "image": "https://cdn.hibid.com/img.axd?id=8469933777&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YGWXvnWuihrLhaP8Icyj1noTI7zCIJGp&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 6.0,
-     "price": 7.0,
-     "bids": 6,
-     "first_seen": "2026-11-23T06:13:31+00:00"
-    },
-    {
      "id": "332534068",
      "title": "LOGITECH LIFT VERTICAL WIRELESS MOUSE - GRAPHI",
      "lot_number": "4018",
@@ -1959,9 +1914,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 4.0,
-     "price": 5.0,
-     "bids": 4,
+     "high": 5.0,
+     "price": 6.0,
+     "bids": 5,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -1989,9 +1944,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 7.0,
-     "price": 8.0,
-     "bids": 7,
+     "high": 8.0,
+     "price": 9.0,
+     "bids": 8,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -2007,21 +1962,6 @@
      "high": 2.0,
      "price": 3.0,
      "bids": 2,
-     "first_seen": "2026-11-23T06:13:31+00:00"
-    },
-    {
-     "id": "332534727",
-     "title": "RAZER COBRA HYPERSPEED WIRELESS MOUSE, 62G BLA",
-     "lot_number": "4678",
-     "url": "https://encoreauctions.hibid.com/lot/332534727/razer-cobra-hyperspeed-wireless-mouse-62g-bla",
-     "image": "https://cdn.hibid.com/img.axd?id=8469945045&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=cnHsFzG1988EihNfJu8B3TiEl4MRaMK1&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 9.0,
-     "price": 10.0,
-     "bids": 9,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -2154,24 +2094,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
-     "first_seen": "2026-11-23T06:13:31+00:00"
-    },
-    {
-     "id": "332535783",
-     "title": "XTERMINATOR LARGE MOUSE/RAT SNAP TRAPS (6)",
-     "lot_number": "5730",
-     "url": "https://encoreauctions.hibid.com/lot/332535783/xterminator-large-mouse-rat-snap-traps-6",
-     "image": "https://cdn.hibid.com/img.axd?id=8469958629&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=ZFXCAHwQ4PrIzP6Eq2zrEQi9VXY81g9K&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
@@ -2394,9 +2319,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
@@ -2445,21 +2370,6 @@
      "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
-     "id": "332789983",
-     "title": "LOGITECH G305 LIGHTSPEED MOUSE, HERO 12K SENSO",
-     "lot_number": "9572",
-     "url": "https://encoreauctions.hibid.com/lot/332789983/logitech-g305-lightspeed-mouse-hero-12k-senso",
-     "image": "https://cdn.hibid.com/img.axd?id=8470514644&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=3092HU9%2bfVx2pUUlUQybulROr9NQwQEk&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-24T03:03:40+00:00"
-    },
-    {
      "id": "332790524",
      "title": "LOGITECH M720 TRIATHALON WIRELESS MOUSE - BLAC",
      "lot_number": "10113",
@@ -2484,9 +2394,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 6.0,
-     "price": 7.0,
-     "bids": 4,
+     "high": 7.0,
+     "price": 8.0,
+     "bids": 5,
      "first_seen": "2026-11-25T05:31:47+00:00"
     },
     {
@@ -2608,21 +2518,6 @@
      "price": 1.0,
      "bids": 0,
      "first_seen": "2026-11-25T05:31:47+00:00"
-    },
-    {
-     "id": "332972864",
-     "title": "LOGITECH G305 LIGHTSPEED MOUSE, HERO 12K SENSO",
-     "lot_number": "13092",
-     "url": "https://encoreauctions.hibid.com/lot/332972864/logitech-g305-lightspeed-mouse-hero-12k-senso",
-     "image": "https://cdn.hibid.com/img.axd?id=8471201270&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=tIbeY02REzAnXK8%2fBMz6vT1UNbBAyYTP&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
      "id": "332972880",
@@ -2754,9 +2649,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-25T05:31:47+00:00"
     },
     {
@@ -2799,9 +2694,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-25T05:31:47+00:00"
     },
     {
@@ -2910,21 +2805,6 @@
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
-     "id": "333190641",
-     "title": "RAZER OROCHI V2 WIRELESS GAMING MOUSE, BLACK",
-     "lot_number": "16858",
-     "url": "https://encoreauctions.hibid.com/lot/333190641/razer-orochi-v2-wireless-gaming-mouse-black",
-     "image": "https://cdn.hibid.com/img.axd?id=8472038575&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=rsUV0jV8ru%2flEWsACA89ppgT%2bwGtSUMi&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
-     "first_seen": "2026-11-27T10:14:27+00:00"
-    },
-    {
      "id": "333190674",
      "title": "RAZER DEATHADDER V3 WIRED MOUSE, 8KHZ, 59G, BL",
      "lot_number": "16892",
@@ -2964,9 +2844,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -2994,25 +2874,10 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
-    },
-    {
-     "id": "333191712",
-     "title": "LOGITECH G502 HERO 25K WIRED GAMING MOUSE",
-     "lot_number": "17939",
-     "url": "https://encoreauctions.hibid.com/lot/333191712/logitech-g502-hero-25k-wired-gaming-mouse",
-     "image": "https://cdn.hibid.com/img.axd?id=8472063857&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=lExKT8g99NTZPzV%2baU4XIepUkhQwZTee&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
      "id": "333191751",
@@ -3088,21 +2953,6 @@
      "price": 1.0,
      "bids": 0,
      "first_seen": "2026-11-26T08:40:28+00:00"
-    },
-    {
-     "id": "333192265",
-     "title": "MELISSA & DOUG DISNEY MICKEY MOUSE HAND PUPPET",
-     "lot_number": "18493",
-     "url": "https://encoreauctions.hibid.com/lot/333192265/melissa-doug-disney-mickey-mouse-hand-puppet",
-     "image": "https://cdn.hibid.com/img.axd?id=8472072165&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=BRUeoz3SFg3Z9xUaqUxKcMynw0mHjbPS&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 6.0,
-     "price": 7.0,
-     "bids": 4,
-     "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
      "id": "333192293",
@@ -3189,9 +3039,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -3249,9 +3099,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -3309,9 +3159,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
@@ -3684,21 +3534,6 @@
    "url": "https://encoreauctions.hibid.com/lots?q=keyboard",
    "lots": [
     {
-     "id": "332400686",
-     "title": "AMAZONBASICS WIRED KEYBOARD USB PLUG N PLAY BL",
-     "lot_number": "663",
-     "url": "https://encoreauctions.hibid.com/lot/332400686/amazonbasics-wired-keyboard-usb-plug-n-play-bl",
-     "image": "https://cdn.hibid.com/img.axd?id=8469039472&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=RJp1UhmDJHIXw29d%2b3WfRrcaGtDhQd8a&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
      "id": "332400742",
      "title": "LOGITECH K345 WIRELESS KEYBOARD WITH PALM REST",
      "lot_number": "684",
@@ -3712,21 +3547,6 @@
      "price": 3.0,
      "bids": 2,
      "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
-     "id": "332401499",
-     "title": "LOGITECH MK470 SLIM WIRELESS KEYBOARD & MOUSE",
-     "lot_number": "1435",
-     "url": "https://encoreauctions.hibid.com/lot/332401499/logitech-mk470-slim-wireless-keyboard-mouse",
-     "image": "https://cdn.hibid.com/img.axd?id=8469061711&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=5YIudKeW%2bwc4PF%2bjpXVSLgHOzmk4s2fr&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 4.0,
-     "price": 5.0,
-     "bids": 3,
-     "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
      "id": "332403706",
@@ -3753,9 +3573,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 6.0,
-     "price": 7.0,
-     "bids": 5,
+     "high": 7.0,
+     "price": 8.0,
+     "bids": 6,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -3849,21 +3669,6 @@
      "first_seen": "2026-11-23T06:13:31+00:00"
     },
     {
-     "id": "332533925",
-     "title": "STEELSERIES APEX 3 TKL WHITE RGB KEYBOARD",
-     "lot_number": "3875",
-     "url": "https://encoreauctions.hibid.com/lot/332533925/steelseries-apex-3-tkl-white-rgb-keyboard",
-     "image": "https://cdn.hibid.com/img.axd?id=8469932623&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=BrXsSDUP0TvTmP3xg9LKfCfzBEx5pmuL&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 16.0,
-     "price": 17.0,
-     "bids": 14,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
      "id": "332534079",
      "title": "APPLE MAGIC KEYBOARD FOR IPAD AIR 11\" WHITE",
      "lot_number": "4029",
@@ -3903,25 +3708,10 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 17.0,
-     "price": 18.0,
-     "bids": 13,
+     "high": 20.0,
+     "price": 21.0,
+     "bids": 15,
      "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
-     "id": "332535769",
-     "title": "APPLE MAGIC KEYBOARD WITH TOUCH ID - MAC SILIC",
-     "lot_number": "5716",
-     "url": "https://encoreauctions.hibid.com/lot/332535769/apple-magic-keyboard-with-touch-id-mac-silic",
-     "image": "https://cdn.hibid.com/img.axd?id=8469958509&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=YhXMialCSzthgGwDEFebOJs1kQq3LuYr&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
-     "first_seen": "2026-11-27T01:55:04+00:00"
     },
     {
      "id": "332784290",
@@ -3952,21 +3742,6 @@
      "price": 4.0,
      "bids": 3,
      "first_seen": "2026-11-27T01:55:04+00:00"
-    },
-    {
-     "id": "332785512",
-     "title": "LOGITECH MK270 WIRELESS KEYBOARD & MOUSE COMBO",
-     "lot_number": "6510",
-     "url": "https://encoreauctions.hibid.com/lot/332785512/logitech-mk270-wireless-keyboard-mouse-combo",
-     "image": "https://cdn.hibid.com/img.axd?id=8470429585&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=r0agVo4upEdMCGCybcNMltKd5pR%2bG0qv&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-24T03:03:40+00:00"
     },
     {
      "id": "332785716",
@@ -4038,9 +3813,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 4.0,
+     "price": 5.0,
+     "bids": 3,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -4053,24 +3828,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 4.0,
-     "price": 5.0,
-     "bids": 4,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
-     "id": "332787009",
-     "title": "LOGITECH PEBBLE KEYS 2 K380S KEYBOARD - GRAPHI",
-     "lot_number": "7873",
-     "url": "https://encoreauctions.hibid.com/lot/332787009/logitech-pebble-keys-2-k380s-keyboard-graphi",
-     "image": "https://cdn.hibid.com/img.axd?id=8470471196&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=b0qQD7n6mL%2bF75y7ImeDI%2fa60Jbvw3Io&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 6.0,
+     "price": 7.0,
+     "bids": 6,
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
@@ -4173,9 +3933,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 6.0,
-     "price": 7.0,
-     "bids": 4,
+     "high": 7.0,
+     "price": 8.0,
+     "bids": 5,
      "first_seen": "2026-11-25T05:31:47+00:00"
     },
     {
@@ -4224,21 +3984,6 @@
      "first_seen": "2026-11-25T13:02:17+00:00"
     },
     {
-     "id": "332972615",
-     "title": "DACOITY 104-KEY METAL KEYBOARD, RGB USB",
-     "lot_number": "12840",
-     "url": "https://encoreauctions.hibid.com/lot/332972615/dacoity-104-key-metal-keyboard-rgb-usb",
-     "image": "https://cdn.hibid.com/img.axd?id=8471192942&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=qrtSIHiJ0PnikQfQKSOo6461LPZBsTuD&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-25T13:02:17+00:00"
-    },
-    {
      "id": "332972761",
      "title": "LOGITECH MK335 FULL-SIZE WIRELESS KEYBOARD + M",
      "lot_number": "12987",
@@ -4254,21 +3999,6 @@
      "first_seen": "2026-11-27T01:55:04+00:00"
     },
     {
-     "id": "332972966",
-     "title": "LOGITECH MK270 WIRELESS KEYBOARD & MOUSE COMBO",
-     "lot_number": "13197",
-     "url": "https://encoreauctions.hibid.com/lot/332972966/logitech-mk270-wireless-keyboard-mouse-combo",
-     "image": "https://cdn.hibid.com/img.axd?id=8471204404&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=PaStmicD8rXy%2f1yOrW4i4tvizEQ2mumW&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-25T05:31:47+00:00"
-    },
-    {
      "id": "332973331",
      "title": "LOGITECH MK270 WIRELESS KEYBOARD & MOUSE COMBO",
      "lot_number": "13574",
@@ -4282,21 +4012,6 @@
      "price": 1.0,
      "bids": 0,
      "first_seen": "2026-11-25T05:31:47+00:00"
-    },
-    {
-     "id": "332973700",
-     "title": "LOGITECH KEYS-TO-GO BLUETOOTH KEYBOARD FOR WIN",
-     "lot_number": "13956",
-     "url": "https://encoreauctions.hibid.com/lot/332973700/logitech-keys-to-go-bluetooth-keyboard-for-win",
-     "image": "https://cdn.hibid.com/img.axd?id=8471224061&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=iYSbek4uNOkJzHDweEGlpp4%2boaVH01PC&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-27T01:55:04+00:00"
     },
     {
      "id": "332973871",
@@ -4353,9 +4068,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-27T01:55:04+00:00"
     },
     {
@@ -4368,9 +4083,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-27T01:55:04+00:00"
     },
     {
@@ -4413,9 +4128,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -4458,9 +4173,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 4.0,
-     "price": 5.0,
-     "bids": 4,
+     "high": 5.0,
+     "price": 6.0,
+     "bids": 5,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -4473,9 +4188,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-26T08:40:28+00:00"
     },
     {
@@ -4533,39 +4248,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-27T10:14:27+00:00"
-    },
-    {
-     "id": "333358093",
-     "title": "LOGITECH MK370 WIRELESS KEYBOARD/MOUSE COMBO",
-     "lot_number": "24152",
-     "url": "https://encoreauctions.hibid.com/lot/333358093/logitech-mk370-wireless-keyboard-mouse-combo",
-     "image": "https://cdn.hibid.com/img.axd?id=8472574755&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=mmDnJGgwudbN0qb%2bwgTNEj2LPylLyorj&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
-     "first_seen": "2026-11-27T10:14:27+00:00"
-    },
-    {
-     "id": "333359032",
-     "title": "APPLE MAGIC KEYBOARD (USB C)",
-     "lot_number": "22089",
-     "url": "https://encoreauctions.hibid.com/lot/333359032/apple-magic-keyboard-usb-c",
-     "image": "https://cdn.hibid.com/img.axd?id=8472588504&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=aVykobucC3SbhidEOiJRE1mGAE2QwE5y&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
@@ -4593,9 +4278,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 0,
-     "price": 1.0,
-     "bids": 0,
+     "high": 1.0,
+     "price": 2.0,
+     "bids": 1,
      "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
@@ -4611,21 +4296,6 @@
      "high": 0,
      "price": 1.0,
      "bids": 0,
-     "first_seen": "2026-11-27T10:14:27+00:00"
-    },
-    {
-     "id": "333359492",
-     "title": "RAZER BLACKWIDOW V4 TKL WIRELESS KEYBOARD, ORA",
-     "lot_number": "20323",
-     "url": "https://encoreauctions.hibid.com/lot/333359492/razer-blackwidow-v4-tkl-wireless-keyboard-ora",
-     "image": "https://cdn.hibid.com/img.axd?id=8472597380&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=PW5v%2fCQ12A2GuwZZXx%2bJSug%2bPMl%2bNvba&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
      "first_seen": "2026-11-27T10:14:27+00:00"
     },
     {
@@ -4668,39 +4338,9 @@
      "auctioneer": "Encore Auctions Inc",
      "closes": "2026-11-29T12:00:00",
      "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
-     "first_seen": "2026-11-27T10:14:27+00:00"
-    },
-    {
-     "id": "333359746",
-     "title": "GLORIOUS GMMK 3 PRO 75% HOT-SWAP KEYBOARD",
-     "lot_number": "23966",
-     "url": "https://encoreauctions.hibid.com/lot/333359746/glorious-gmmk-3-pro-75-hot-swap-keyboard",
-     "image": "https://cdn.hibid.com/img.axd?id=8472604455&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=ov5M5y9QWHNigmHym1TEUx42%2bt8FlpDo&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
-     "first_seen": "2026-11-27T10:14:27+00:00"
-    },
-    {
-     "id": "333359757",
-     "title": "STEELSERIES APEX PRO TKL GEN 3 KEYBOARD - OLED",
-     "lot_number": "23926",
-     "url": "https://encoreauctions.hibid.com/lot/333359757/steelseries-apex-pro-tkl-gen-3-keyboard-oled",
-     "image": "https://cdn.hibid.com/img.axd?id=8472604705&wid=&rwl=false&p=&ext=&w=0&h=0&t=&lp=&c=true&wt=false&sz=MAX&checksum=09Iq05WHoKOBEgwJgiaiBLItYlEDiz7R&h=350&w=350",
-     "auction": "Canada's Largest Auction: Sunday Mega Liquidation Event!",
-     "auctioneer": "Encore Auctions Inc",
-     "closes": "2026-11-29T12:00:00",
-     "currency": "CAD",
-     "high": 1.0,
-     "price": 2.0,
-     "bids": 1,
+     "high": 2.0,
+     "price": 3.0,
+     "bids": 2,
      "first_seen": "2026-11-27T10:14:27+00:00"
     }
    ],
@@ -4708,5 +4348,5 @@
    "error": ""
   }
  ],
- "updated": "2026-11-27T10:14:27+00:00"
+ "updated": "2026-11-27T19:28:23+00:00"
 }
